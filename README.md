@@ -11,7 +11,3 @@ This project evaluates trading strategies under uncertainty using **Monte Carlo*
 - Strategy formulas / genetic evolution code
 - Private data feeds or API keys
 - Any production execution logic
-
-## How to run (demo only)
-```bash
-python examples/run_backtest_sample.py
